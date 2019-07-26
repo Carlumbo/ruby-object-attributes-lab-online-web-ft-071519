@@ -13,6 +13,7 @@ class Person
   end 
   def job=(career)
     @job = career
+  end
 end
 
   
